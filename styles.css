@@ -1,0 +1,52 @@
+body{
+	background-color:#51e2f5;
+	background-image: url("./images/bg.jpg");
+}
+
+h1,h2{
+	color:whitesmoke;
+	background-color: lightseagreen;
+}
+p{
+	color:wheat;
+	font-family: verdana;
+	font-size:100%;
+	border:2px solid grey;
+	
+}
+	
+li {
+	color:wheat;
+	font-family: verdana;
+	font-size:100%;
+	
+
+	}
+
+table,th,td{
+	border:1px solid lightseagreen;
+	
+}
+th,td {
+	background-color:lightseagreen;
+	font-family:verdana;
+	font-size:100%;
+	color:wheat;
+}
+
+a{
+	color:orangered;
+	background-color:transparent;
+	text-decoration:none;
+}
+a:visited{
+	color:yellow;
+	background-color:transparent;
+	text-decoration:none;
+}
+
+address{
+	color:wheat;
+	font-size: 100%;
+	background-color: lightseagreen;
+}
